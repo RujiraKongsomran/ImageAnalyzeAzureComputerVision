@@ -1,0 +1,2 @@
+rootProject.name='ImageAnalyzeAzureComputerVision'
+include ':app'
